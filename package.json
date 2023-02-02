@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "e2e": "ng e2e",
-    "build-github": "ng build --base-href https://wrenpriest.github.io/Angular-Quick-Start-Application/ --deploy-url=https://wrenpriest.github.io/Angular-Quick-Start-Application/"
+    "build-github": "ng build --base-href https://wrenpriest.github.io/Angular-Quick-Start-Application/"
   },
   "private": true,
   "dependencies": {
